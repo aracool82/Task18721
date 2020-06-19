@@ -10,7 +10,8 @@ public class ResourceGenerator : MonoBehaviour
 
     public IResourceble GetResources(IResourceble resource)
     {
-        resource.Add(Random.Range(_minValue, _maxValue));
+        int randomValue = Random.Range(_minValue, _maxValue);
+        resource.Add(randomValue);
         return resource;
     }
 }

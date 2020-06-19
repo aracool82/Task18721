@@ -284,7 +284,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _player: {fileID: 1502601664}
-  _type: 2
+  _typeResource: 2
   _text: {fileID: 296533306}
 --- !u!222 &296533308
 CanvasRenderer:
@@ -988,7 +988,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _player: {fileID: 1502601664}
-  _type: 0
+  _typeResource: 0
   _text: {fileID: 1544334445}
 --- !u!222 &1544334447
 CanvasRenderer:
@@ -1334,7 +1334,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _player: {fileID: 1502601664}
-  _type: 1
+  _typeResource: 1
   _text: {fileID: 2139329707}
 --- !u!222 &2139329709
 CanvasRenderer:
